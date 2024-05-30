@@ -1,0 +1,15 @@
+.diariamente{
+    height: 30vh;
+    width: 100%;
+}
+.temperatura-semana{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.temperatura-semana h2 {
+    box-sizing: border-box;
+    width: 100%;
+}
